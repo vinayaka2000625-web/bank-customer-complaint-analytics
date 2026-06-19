@@ -121,16 +121,16 @@ Four interactive Power BI dashboards were developed to support executive reporti
 ## Screenshots
 
 ### Dashboard 1 – Executive Overview
-![Dashboard 1](images/Dashboard1(Executive Summary).png)
+![Dashboard 1](images/Dashboard1.png)
 
 ### Dashboard 2 – Root Cause Analysis
-![Dashboard 2](images/Dashboard2(Product & Root Cause Analysis).png)
+![Dashboard 2](images/Dashboard2.png)
 
 ### Dashboard 3 – Service Performance & Response Effectiveness
-![Dashboard 3](images/Dashboard3(Service Performance & Response Effectiveness).png)
+![Dashboard 3](images/Dashboard3.png)
 
 ### Dashboard 4 – Geographic Risk & Regional Concentration
-![Dashboard 4](images/Dashboard4(Geographic Risk & Regional Complaint Concentration).png)
+![Dashboard 4](images/Dashboard4.png)
 
 ## Key Insights Visualized
 
