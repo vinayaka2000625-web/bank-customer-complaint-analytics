@@ -18,12 +18,12 @@
 
 ---
 
-Project Overview
+## Project Overview
 
 A data analytics project focused on understanding customer complaint behaviour, identifying major complaint drivers, evaluating service performance, and assessing geographic complaint concentration within the banking sector.
 Using SQL (SQLite), Python, and Power BI, the project applies a hypothesis-driven analytical framework to transform customer complaint data into actionable business insights and interactive dashboards.
 
-Business Problem
+## Business Problem
 Customer complaints provide valuable insight into service quality and customer experience. However, large volumes of complaint records make it difficult to identify recurring issues, monitor response performance, and prioritize operational improvements.
 This project aims to answer key business questions:
 •	Which products generate the most complaints?
